@@ -1,0 +1,21 @@
+.title {
+  text-align: "center";
+}
+.main {
+  width: 70vw;
+  text-align: center;
+  margin: auto;
+}
+.navb {
+  display: flex;
+  justify-content: space-between;
+  width: 100vw;
+  background-color: lightblue;
+  align-items: center;
+  padding-inline: 10vw;
+}
+.m {
+  background-color: lightblue;
+  height: 100vh;
+  width: 100vw;
+}
